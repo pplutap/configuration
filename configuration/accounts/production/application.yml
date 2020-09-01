@@ -1,2 +1,7 @@
 server:
   port: 7777
+accounts:
+  datasource:
+    url: jdbc:mysql://localhost:3306/accounts?serverTimezone=Europe/Warsaw&useSSL=False
+    username: kodilla_user
+    password: kodilla_password
