@@ -6,4 +6,4 @@ accounts:
     username: kodilla_user
     password: kodilla_password
     ddl-mode: update
-  allow-get-accounts: false
+  allow-get-accounts: true
