@@ -1,6 +1,6 @@
+server:
+  port: 7778
 customers:
-  server:
-    port: 7778
   datasource:
     url: jdbc:mysql://localhost:3306/customers?serverTimezone=Europe/Warsaw&useSSL=False
     username: kodilla_user
